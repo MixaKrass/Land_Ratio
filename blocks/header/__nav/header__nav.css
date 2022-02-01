@@ -1,0 +1,7 @@
+.header__nav {
+  display: flex;
+  list-style: none;
+  height: 30px;
+  margin: 0;
+  padding: 0;
+}

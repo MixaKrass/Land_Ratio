@@ -1,0 +1,7 @@
+.lead {
+  display: flex;
+  margin: 0;
+  justify-content: space-between;
+  padding-left: 240px;
+  padding-top: 143px;
+}

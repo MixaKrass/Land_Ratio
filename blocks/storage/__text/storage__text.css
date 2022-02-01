@@ -1,0 +1,6 @@
+.storage__text {
+  display: flex;
+  flex-direction: column;
+  padding-left: 65px;
+  padding-top: 125px;
+}

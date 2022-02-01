@@ -1,0 +1,10 @@
+.cards__item {
+  width: 531px;
+  height: 358px;
+  display: flex;
+  padding-top: 50px;
+}
+
+.cards__item:nth-child(2n) {
+  padding-left: 45px;
+}

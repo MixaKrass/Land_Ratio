@@ -1,0 +1,9 @@
+.cards__title {
+  width: 200px;
+  height: 50px;
+  font-size: 24px;
+  line-height: 31px;
+  margin: 0;
+  display: flex;
+  align-items: center
+}

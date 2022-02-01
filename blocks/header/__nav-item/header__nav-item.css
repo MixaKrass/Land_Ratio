@@ -1,0 +1,10 @@
+.header__nav-item {
+  height: 26px;
+  position: relative;
+  margin-right: 40px;
+  padding-top: 3px;
+}
+
+.header__nav-item:last-of-type{
+  margin-right: 0;
+}
